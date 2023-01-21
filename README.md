@@ -4,6 +4,7 @@
 
 # Pig-game
 🐷 - Pig game using JS. For educational purposes.
+With the support of Jonas Schmedtmann, creator of the course: The Complete JavaScript Course 2023: From Zero to Expert!.
 
 Demonstration of how the game works:
 - The objective of the game is to get 100 points by rolling the dice.
